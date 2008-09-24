@@ -5,3 +5,4 @@ Modified by:
  - Jesse Andrews (http://www.overstimulate.com)
  - Timoni Grone (http://www.timoni.org) - stylesheet and design aid 
  - Scott Chacon (http://jointheconversation.org) - ruby-git migration
+ - Eric Davis (http://www.littlestreamsoftware.com) - ENV['WIKI_HOME'], Markdown syntax
